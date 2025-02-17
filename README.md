@@ -34,6 +34,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 As an end-user,  i create the following ticket  entire mobile/online banking system is down. Opening a new ticket in a ticketing system creates a formal request for support, service, or issue resolution. It allows users (customers or employees) to report problems, ask questions, or request assistance. The ticket is then assigned to the appropriate agent, team, or department based on its category and priority.<img width="1680" alt="Screen Shot 2025-02-17 at 12 10 45 PM" src="https://github.com/user-attachments/assets/1bea2faa-74e3-46f4-a0da-31b7cd6c0ad7" />
 
+
 <img width="1680" alt="Screen Shot 2025-02-17 at 12 11 02 PM" src="https://github.com/user-attachments/assets/ad2afe11-8f77-4a4d-9897-16337413df53" />
 
 As a Help Desk Agent i observe the ticket’s properties	Priority,Department, SLA ,Assigned To ,Updating the SLA (Service Level Agreement) plan in a ticketing system modifies response and resolution time commitments based on service priorities, customer tiers, or business needs. This ensures that tickets are handled according to the latest support policies, urgency levels, and operational goals.
@@ -56,16 +57,6 @@ then as jane i assgin to myself to work ticket  to myself and gave a timely resp
 <img width="1680" alt="Screen Shot 2025-02-17 at 12 45 07 PM" src="https://github.com/user-attachments/assets/b961c517-ed50-4d60-a3fa-5d732b6509ef" />
 after looking at the system i was able to determine the problem and fix the users issue and the proccessed to close the ticket 
 <img width="1680" alt="Screen Shot 2025-02-17 at 12 51 54 PM" src="https://github.com/user-attachments/assets/f5624208-193f-4761-85d9-b5275d36f7c7" />
-then after resloving the ticket i got sent back to the main menu 
+after  resloving the ticket i got sent back to the main menu 
 <img width="1680" alt="Screen Shot 2025-02-17 at 12 52 48 PM" src="https://github.com/user-attachments/assets/e59aba58-bfa8-4e88-95eb-7025738d2f55" />
 
-
-
-
-<p>
- 
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
